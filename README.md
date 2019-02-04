@@ -120,4 +120,21 @@ your text.)
 
 * Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).
 * How do you turn on line numbering in Vi? Emacs? (Type your answer here.)
+///
+VI
+
+1.Press ':'
+2. Type 'set number'
+///
+
+///
+EMACS
+
+1. Press meta+x
+2. Type 'linum-mode'
+///
+
 * Explore the Emacs file browser mode. Describe how it works here.
+Using /// meta+x eww /// will open a web browser capable of opening webpages. After you type te command, you should
+offer the url of the website you wan to visit. This featuere can be useful when using the split screen mode of emacs
+or while debuging websites.
